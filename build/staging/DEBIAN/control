@@ -1,0 +1,8 @@
+Source: empty-debian-pkg
+Version: 1.0.0-alpha
+Priority: optional
+Section: embedded
+Maintainer: Rina <no-address@dummy.com>
+Package: empty-debian-pkg
+Architecture: amd64
+Description: Hello world debian package for testing purpose
